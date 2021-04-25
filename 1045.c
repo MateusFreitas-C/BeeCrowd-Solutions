@@ -1,3 +1,8 @@
+/*
+  Autor: Mateus Freitas;
+  Nome: Tipos de Triângulos;
+*/
+
 #include <stdio.h>
  
 int main() {
@@ -35,10 +40,6 @@ int main() {
     }else if (a == b || a == c || b == c){
         printf("TRIANGULO ISOSCELES\n");
     }
-
-
-
-
 
 return 0;
 }

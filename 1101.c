@@ -1,3 +1,8 @@
+/* 
+Autor: Mateus Freitas; 
+Nome: Sequência de Números e Soma; 
+*/ 
+
 #include <stdio.h>
 
 int main(void){
