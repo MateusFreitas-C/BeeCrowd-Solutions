@@ -1,3 +1,8 @@
+/*
+  Autor: Mateus Freitas;
+  Nome: Andando no Tempo;
+*/
+
 #include <stdio.h>
  
 int main() {

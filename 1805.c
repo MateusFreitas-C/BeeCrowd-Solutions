@@ -1,3 +1,8 @@
+/* 
+Autor: Mateus Freitas; 
+Nome: Soma Natural; 
+*/ 
+
 #include <stdio.h>
  
 int main() {
