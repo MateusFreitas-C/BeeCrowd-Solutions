@@ -1,3 +1,8 @@
+/*
+  Autor: Mateus Freitas;
+  Nome: Tipos de Triângulos;
+*/
+
 #include <stdio.h>
  
 int main() {
