@@ -1,3 +1,8 @@
+/* 
+Autor: Mateus Freitas; 
+Nome: Numero Perfeito; 
+*/ 
+
 #include <stdio.h>
  
 int main() {
