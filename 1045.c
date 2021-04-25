@@ -41,9 +41,5 @@ int main() {
         printf("TRIANGULO ISOSCELES\n");
     }
 
-
-
-
-
 return 0;
 }
