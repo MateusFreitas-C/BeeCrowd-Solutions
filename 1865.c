@@ -8,7 +8,7 @@
 
 int main() {
     int c, forca, i;
-    char nome[1000];
+    char nome[30];
 
     scanf("%d", &c);
     for(i = c; i > 0; i = i - 1){
