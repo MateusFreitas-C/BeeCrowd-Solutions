@@ -1,7 +1,5 @@
-/*
-  Autor: Mateus Freitas;
-  Nome: Figurinhas;
-*/
+#Autor: Mateus Freitas;
+#Nome: Figurinhas;
 
 def pilha(F1, F2):
     if F1 % F2 == 0:
